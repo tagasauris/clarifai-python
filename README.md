@@ -1,3 +1,5 @@
+MIGRATED TO: https://gitlab.com/tagasauris/clarifai-python
+
 Clarifai API Python Client
 ====================
 
